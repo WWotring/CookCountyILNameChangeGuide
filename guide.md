@@ -1,4 +1,5 @@
 Adult Name Change Guide For Cook County IL
+
 Written 05/14/2026
 
 
@@ -96,7 +97,3 @@ What's next?
 		- Filing Code: Motion to - Filed
 		- Upload your Motion to impound and order to impound, saved as a single pdf
 		- Save
-
-
-![[https://github.com/WWotring/CookCountyILNameChangeGuide/blob/main/filing1.png?raw=true]]
-![[https://github.com/WWotring/CookCountyILNameChangeGuide/blob/main/filing2.png?raw=true]]
