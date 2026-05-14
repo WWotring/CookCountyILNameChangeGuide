@@ -3,6 +3,7 @@
 Written 05/14/2026
 
 
+
 ## Why I am publishing this guide / Notes
 - Many folks don't have the bandwidth to navigate self-file on their own
 - Volunteer organizations with real lawyers (https://www.tjlp.org/) exist to fill that gap but the demand is high and (I am told) it is slow
@@ -11,23 +12,28 @@ Written 05/14/2026
 - I haven't completed the process yet, so updates are possible. But, I have successfully filed the case and all my documents so this should be complete.
 
 
+
 ## What this guide does not address:
 - For folks who intend to file a waiver of the substantial fees, I did not do this so I will not cover it. 
 
-##Getting started - Generating the forms
+
+## Getting started - Generating the forms
 - This was the easiest part for me because Illinois Legal Aid Easy Form walked me through it.
 - https://www.illinoislegalaid.org/legal-information/name-change-adult
+
 
 ## Gathering Documentation
 - You will need these 2 pdfs, but not right away.
 	- your birth certificate
 	- images of both sides of your IL drivers license or ID. This must have a Cook County address. You will also need to redact all but the last 4 digits of your ID number. 
 
+
 ## Read the documentation to be sure there are no other details you may need to address
 https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-standardized-forms-suites/name-change/
 - Click on Name Change Adult to display the contents of that section
 	- The "How to change your name" documentation here was very helpful and you should read it first to be sure this process applies to you, and to be prepared for next steps.
 	- The other items are the forms you have already completed.
+
 
 ## eFile
 https://ilcourts.info/efile
@@ -71,6 +77,7 @@ https://ilcourts.info/efile
 - Review and Submit
 	- Exactly what it sounds like.
 	- Change anything last minute and click submit
+
 
 ## What's next?
 - If all went well your filing will be accepted and a case will be opened
