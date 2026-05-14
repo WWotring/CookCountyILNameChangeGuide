@@ -29,7 +29,7 @@ https://www.illinoiscourts.gov/documents-and-forms/approved-forms/circuit-court-
 	- The "How to change your name" documentation here was very helpful and you should read it first to be sure this process applies to you, and to be prepared for next steps.
 	- The other items are the forms you have already completed.
 
-Efile
+eFile
 https://ilcourts.info/efile
 - you will make an account if you, like me, have never needed to file before
 - Start Filing
@@ -97,3 +97,6 @@ What's next?
 		- Filing Code: Motion to - Filed
 		- Upload your Motion to impound and order to impound, saved as a single pdf
 		- Save
+
+![Filing UI](blob/filing1.png?raw=true)
+![Filing UI](blob/filing2.png?raw=true)
